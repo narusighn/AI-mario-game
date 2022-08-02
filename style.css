@@ -1,0 +1,39 @@
+body{
+    background-image: url("background.jpg");
+}
+
+#head{
+    width: 100%;
+}
+
+#head h1{
+    float: left;
+    display: inline;
+
+}
+
+#head button{
+    float: right;
+    display: inline;
+    font-size: 30px;
+}
+
+img{
+    width: 100%;
+}
+
+.directions{
+    display: inline;
+    width: 45%;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
